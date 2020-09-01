@@ -1,3 +1,9 @@
+shim-signed (1.37~18.04.6-galliumos1) bionic; urgency=medium
+
+  * First GalliumOS version
+
+  -- reynhout <reynhout@galliumos.org>  Tue, 01 Sep 2020 03:34:57 +0000
+
 shim-signed (1.37~18.04.6) bionic; urgency=medium
 
   * Pass --timeout -1 to mokutil in a separate mokutil run (LP: #1869187)
